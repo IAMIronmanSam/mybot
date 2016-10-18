@@ -1,0 +1,15 @@
+{
+  "name": "mybot",
+  "version": "1.0.0",
+  "description": "Simple Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arivazhagan",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.3.2",
+    "restify": "^4.1.1"
+  }
+}
